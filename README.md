@@ -51,22 +51,26 @@
 </div>
 <div align=center>
 	<a href="#">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
+		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=for-the-badge&logo=Micro.blog&logoColor=white" />
 	</a>
 	<a href="#">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+		<img src="https://img.shields.io/badge/Blog-FF9800?style=for-the-badge&logo=Blogger&logoColor=white" />
 	</a>
 	<a href="mailto:jhmoon010415@gmail.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/Mail-30B980?style=for-the-badge&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="#">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+		<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
 	</a>
 	<br>
 </div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=20Jayden&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=20Jayden&langs_count=3&hide_title=true&hide_border=true" />
-</a>
+<br>
+<br>
+<div align=center>
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+	  <img align="center" src="https://github-readme-stats.vercel.app/api?username=20Jayden&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+	</a>
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+	  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=20Jayden&langs_count=3&hide_title=true&hide_border=true" />
+	</a>
+</div>
