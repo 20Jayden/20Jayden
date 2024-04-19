@@ -1,8 +1,10 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&text=Jayden's%20Journey&fontColor=fff&reversal=false&stroke=000&strokeWidth=1&desc=South%20Korea%20Software%20Developer%20&descAlignY=60&fontAlignY=44" />	
 </div>
+<br>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
+	<br>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
@@ -23,6 +25,7 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 	<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 </div>
+<br>
 <br>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
@@ -45,6 +48,7 @@
 	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 </div>
+<br>
 <br>
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
