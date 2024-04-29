@@ -57,7 +57,7 @@
 	<a href="#">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=for-the-badge&logo=Micro.blog&logoColor=white" />
 	</a>
-	<a href="#">
+	<a href="20jayden.dev">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=for-the-badge&logo=Blogger&logoColor=white" />
 	</a>
 	<a href="mailto:jhmoon010415@gmail.com">
